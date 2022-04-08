@@ -1,0 +1,8 @@
+INSERT INTO `cars` 
+(`id`, `title`, `description`, `price`, `engine_size`, `nct_due`, `road_tax`, `contact_name`, `contact_email`, `contact_phone`, `images`, `created_at`, `updated_at`) 
+VALUES 
+(NULL, '1986 Toyota Corolla AE86', 'Car in good condition. Runs Perfectly', '1900', '1.4', '2022-05-27', '300', 'Dave Murphy', 'DMurph@gmail.com', '089 45428345', 'ae86.jpg', '2022-04-03 15:57:27', NULL), 
+(NULL, 'Honda Civic EK9', 'Car has engine swap. 500hp. Yellow wrap not orignal', '9000', '3.5', '2022-09-15', '500', 'Han Solo', 'Hans@hotmail.com', '08723416573', 'ek9.jpg', NULL, NULL),
+(NULL, 'BMW E30 M3', 'Well looked after so it runs like new.', '80000', '2.3', '2022-12-16', '56', 'Mary Waters', 'MWaters@yahoo.ie', '0861239474', 'e30m3.jpg', NULL, NULL), 
+(NULL, 'Porsche 964', 'Car not in perfect condition but runs well and has no visible damage.', '57000', '3.6', '2022-06-17', '56', 'Jon Jones', 'JJ@gmail.com', '0894563746', 'Porsche964.jpg', NULL, NULL), 
+(NULL, 'Nissan Silvia S14', 'Cars been modded heavily but all under the hood. Looks stock at first glance. Gerat sleeper car', '15000', '3.0', '2023-05-18', '420', 'Juan Navio', 'Juanda@gmail.com', '08794901030', 's14.jpg', NULL, NULL);
